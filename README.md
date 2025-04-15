@@ -1,7 +1,5 @@
 
 
-## 🚀 How to Make a Live Link or Share This Project
-
 This project directly modifies the system's `hosts` file to block specific websites during defined working hours. Since it interacts with the operating system, it's not suitable for live hosting like typical web apps. However, you can share this project using these methods:
 
 ### 🧾 1. Host the Code on GitHub
