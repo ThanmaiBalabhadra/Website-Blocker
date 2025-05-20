@@ -3,7 +3,8 @@ from datetime import datetime as dt
 
 ip_localmachine="127.0.0.1"
 website_list=["instagram.com","spankbang.com"]
-hosts_path="C:\Windows\System32\drivers\etc\hosts"
+hosts_path = r"C:\Windows\System32\drivers\etc\hosts"
+
 start_time="09:0:0"
 end_time="15:0:0"
     
